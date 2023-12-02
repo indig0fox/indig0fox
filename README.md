@@ -1,7 +1,6 @@
 - 👋 Hi, I’m IndigoFox!
 - 👀 I’m interested in geospatial applications, web technologies, workflow automation, and data processing.
-- 🌱 I’m currently learning Go, InfluxDB, and TimescaleDB. In the last 6 months I've learned Vue.js and Docker.
-- 💞️ I’m looking to collaborate on whatever I can contribute to!
+- 🌱 I’m currently looking for a project! My favorite tools are Golang, Javascript/Node, Powershell, PostgreSQL, PostGIS, GDAL, and Python.
 - 📫 Contact info at https://indigofox.dev
 
 <!---
